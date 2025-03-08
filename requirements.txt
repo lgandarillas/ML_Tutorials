@@ -1,0 +1,15 @@
+# Core dependencies
+ipykernel          # Execution kernel for Jupyter Notebooks
+numpy              # Numerical computing library
+pandas             # Data manipulation and analysis library
+
+# Machine Learning
+scikit-learn       # Machine learning library
+linear-tree        # Linear model trees for regression
+
+# Data Visualization
+matplotlib         # Plotting library
+seaborn            # Statistical data visualization
+
+# Statistical Analysis
+statsmodels        # Statistical modeling and hypothesis testing
