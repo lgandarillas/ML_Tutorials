@@ -13,3 +13,9 @@ seaborn            # Statistical data visualization
 
 # Statistical Analysis
 statsmodels        # Statistical modeling and hypothesis testing
+
+# Hyperparameter Optimization
+optuna             # Hyperparameter optimization framework
+
+# Data Cleaning
+missingno          # Missing data visualization and analysis
