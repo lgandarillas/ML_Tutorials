@@ -19,7 +19,34 @@ pip install -r requirements.txt
 
 ---
 
-### Tutorial 1: Work Environment. File Trees
+## Tutorial 1: Work Environment. File Trees
 <details>
-...
+
+    - Introduction to file trees and project organization
+    - Understanding directory structures
+    - Best practices for organizing machine learning projects
+</details>
+
+## Tutorial 2: Hyperparameter Optimization (HPO) and Pipelines
+<details>
+
+    - Introduction to Hyperparameter Optimization (HPO)
+    - Building ML pipelines
+    - Automating model tuning with pipelines
+</details>
+
+## Tutorial 3: Linear Regression and Hyperparameters
+<details>
+
+    - Fundamentals of linear regression
+    - Tuning hyperparameters for regression models
+    - Best practices for training and evaluation
+</details>
+
+## Tutorial 4: Logistic Regression
+<details>
+
+    - Introduction to logistic regression
+    - Model training and evaluation
+    - Handling imbalanced data in classification tasks
 </details>
