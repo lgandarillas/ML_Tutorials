@@ -19,3 +19,6 @@ optuna             # Hyperparameter optimization framework
 
 # Data Cleaning
 missingno          # Missing data visualization and analysis
+
+# Used for plotting decision regions
+mlxtend
