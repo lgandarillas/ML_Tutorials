@@ -22,3 +22,6 @@ missingno          # Missing data visualization and analysis
 
 # Used for plotting decision regions
 mlxtend
+
+# Used for plotting decision regions
+plotly
