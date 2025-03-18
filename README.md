@@ -1,6 +1,6 @@
 # ML_Tutorials
 
-This repository contains my notes for the [Machine Learning](https://aplicaciones.uc3m.es/cpa/generaFicha?est=218&anio=2024&plan=489&asig=15757&idioma=2) course at [UC3M](https://www.uc3m.es/home). It includes tutorials, code snippets, and resources to facilitate learning and implementation of various ML concepts.
+This repository contains my notes for the [Machine Learning](https://aplicaciones.uc3m.es/cpa/generaFicha?est=218&anio=2024&plan=489&asig=15757&idioma=2) course at [UC3M](https://www.uc3m.es/home). It includes tutorials, code snippets, and resources to facilitate learning and implementation of various ML concepts. The code is not entirely my own; it is based on the tutorials provided in class.
 
 #### Setting Up the Environment
 To ensure a clean and isolated Python environment, it is recommended to use a virtual environment (`venv`). Follow these steps:
