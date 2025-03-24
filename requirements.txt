@@ -25,3 +25,9 @@ mlxtend
 
 # Used for plotting decision regions
 plotly
+
+# Gradient boosting framework for efficient and scalable ML (tutorial 7)
+xgboost
+
+# Gradient boosting framework optimized for speed and performance on large datasets
+lightgbm
