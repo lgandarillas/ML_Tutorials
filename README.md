@@ -71,3 +71,15 @@ pip install -r requirements.txt
     - Random Forest: Theory and implementation
     - Hyperparameter tuning in Random Forest models
 </details>
+
+## Tutorial 7: Gradient Boosting (HistGradientBoosting, XGBoost, LightGBM)
+<details>
+
+    - Introduction to Gradient Boosting Trees and their core concepts
+    - Implementation using `HistGradientBoostingClassifier` from sklearn
+    - Handling categorical features and missing values
+    - Model evaluation and hyperparameter tuning with RandomizedSearchCV
+    - Feature importance via permutation method
+    - Using XGBoost: setup, training, and evaluation
+    - Using LightGBM: performance comparison and hyperparameter tuning
+</details>
