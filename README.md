@@ -83,3 +83,15 @@ pip install -r requirements.txt
     - Using XGBoost: setup, training, and evaluation
     - Using LightGBM: performance comparison and hyperparameter tuning
 </details>
+
+## Tutorial 8: Clustering and PCA
+<details>
+
+    - KMeans clustering: theory and implementation with sklearn
+    - Selecting the number of clusters: Elbow method and Silhouette score
+    - Hierarchical clustering: linkage methods and dendrograms
+    - DBSCAN: density-based clustering and parameter tuning
+    - Principal Component Analysis (PCA) for visualization and preprocessing
+    - Clustering analysis using PCA-reduced data
+    - Gaussian Mixture Models (GMM) and Expectation-Maximization (EM)
+</details>
